@@ -7,6 +7,7 @@
 
 /* Componentes */
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 
 /* Home */
 @import "./home/introducao.css";
@@ -54,5 +55,8 @@
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
+/* contato */
+@import "./contato/lojas.css";
+@import "./contato/contato.css";
 /* termos */
 @import "./termos/termos.css";
