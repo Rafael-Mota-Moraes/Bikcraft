@@ -58,5 +58,9 @@
 /* contato */
 @import "./contato/lojas.css";
 @import "./contato/contato.css";
+
+/* orcamento */
+@import "./orcamento/orcamento.css";
+
 /* termos */
 @import "./termos/termos.css";
